@@ -1,3 +1,6 @@
+See: https://github.com/SigmaHQ/pySigma-backend-golangexpr
+
+
 # pySigma Golang Expr Backend
 
 This is the Golang Expr backend for pySigma. It provides the package `sigma.backends.golangexpr` with the `GolangExprBackend` class.
